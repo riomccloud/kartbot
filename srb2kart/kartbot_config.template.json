@@ -8,7 +8,6 @@
 	"server_executable_name": "executavelDoJogo",
 	"server_script_path": "/caminho/do/script/para/iniciar.sh",
 	"server_max_players": 15,
-	"ip_message": "mensagemComIpNoDiscord",
 	"permission_error_message": "Apenas os administradores e moderadores podem executar esse comando.",
 	"allowed_roles": ["Admin", "Mod"],
 	
