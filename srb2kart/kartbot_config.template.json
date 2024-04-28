@@ -1,0 +1,23 @@
+{
+	"prefix": "k!",
+	"token": "seuTokenDiscordBot",
+
+	"server_name": "nomeServidor",
+	"tmux_name": "nomeTmux",
+	"server_folder_path": "/caminho/do/jogo",
+	"server_executable_name": "executavelDoJogo",
+	"server_script_path": "/caminho/do/script/para/iniciar.sh",
+	"server_max_players": 15,
+	"ip_message": "mensagemComIpNoDiscord",
+	"permission_error_message": "Apenas os administradores e moderadores podem executar esse comando.",
+	"allowed_roles": ["Admin", "Mod"],
+	
+	"log_path": "/caminho/do/jogo/log.txt",
+
+	"chat_bridge": true,
+	"chat_bridge_channel_id": 0123,
+	"bot_commands_channel_id": 0123,
+	"track_images_url": "http://urldasimagensdaspistas.com",
+	"webhook_url": "http://urldowebhook.com",
+	"webhook_base_avatar_url": "https://urldosavataresdospersonagens.com"
+}
