@@ -1,0 +1,22 @@
+{
+	"prefix": "r!",
+	"token": "nuh_uh",
+
+	"serverName": "Interlagos",
+	"tmuxName": "interlagos",
+	"serverFolderPath": "/home/ubuntu/.ringracers/",
+	"serverExecutableName": "ringracers",
+	"serverScriptPath": "/home/ubuntu/scripts/iniciar.sh",
+	"serverMaxPlayers": 15,
+	"permissionErrorMsg": "Apenas os administradores e moderadores podem executar esse comando.",
+	"allowedRoles": ["Administração", "Moderadores"],
+	
+	"logFile": "latest-log.txt",
+
+	"displayGamemode": true,
+	"chatBridgeChannelID": 0,
+	"botCommandsChannelID": 0,
+	"mapImagesURL": "https://srb2kbr.com/static/images/",
+	"webhookURL": "nuh_uh",
+	"webhookAvatarURL": "https://srb2kbr.com/static/webhook_avatars/"
+}
