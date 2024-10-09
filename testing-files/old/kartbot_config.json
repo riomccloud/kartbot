@@ -1,0 +1,23 @@
+{
+	"prefix": "k!",
+	"token": "nuh_uh",
+
+	"server_name": "Jacarepaguá",
+	"tmux_name": "jacarepagua",
+	"server_folder_path": "/home/ubuntu/.srb2kart/",
+	"server_executable_name": "srb2kart",
+	"server_script_path": "/home/ubuntu/scripts/iniciar.sh",
+	"server_max_players": 15,
+	"ip_message": "## :link: IPs do SRB2Kart-Brasil\n### Interlagos (Ring Racers)\n`i.srb2kbr.com`\n### Jacarepaguá (SRB2Kart)\n`j.srb2kbr.com`",
+	"permission_error_message": "Apenas os administradores e moderadores podem executar esse comando.",
+	"allowed_roles": ["Administração", "Moderadores"],
+	
+	"log_file": "log.txt",
+
+	"chat_bridge": true,
+	"chat_bridge_channel_id": 0,
+	"bot_commands_channel_id": 0,
+	"track_images_url": "https://srb2kbr.com/static/images/",
+	"webhook_url": "nuh_uh",
+	"webhook_base_avatar_url": "https://srb2kbr.com/static/webhook_avatars/"
+}
